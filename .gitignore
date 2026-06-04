@@ -1,0 +1,24 @@
+# Byte-compiled / __pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database (contains user data, not code)
+data/progress.db
+
+# API config (contains keys)
+data/config.json
+
+# Saved user code
+saved_code/*.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
